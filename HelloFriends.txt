@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello zurück von Kemmer
+=======
+Hallo zurück von Laurent
+>>>>>>> 8a2bfd59445773c8080c57cfb4bad08b902499e6
